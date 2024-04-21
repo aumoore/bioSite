@@ -74,7 +74,7 @@
 
     .grid-three {
         display: grid;
-        grid-template-columns: 50% 40%;
+        grid-template-columns: 30% 70%;
         padding: 30px;
         box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
     }
@@ -130,3 +130,6 @@
         font-weight: normal;
     }
 
+    .figcaption {
+        font-style: italic;
+    }
