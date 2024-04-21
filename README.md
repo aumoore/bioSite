@@ -1,4 +1,4 @@
-# CSD 340 Web Development with HTLM and CSS
+# CSD 340 Web Development with HTML and CSS
 ## Contributors
 * Mr. Issa
 * Austin Moore
